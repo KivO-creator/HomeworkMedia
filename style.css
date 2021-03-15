@@ -197,7 +197,7 @@ padding-bottom: 130px;
 }
 
 
-@media screen and (max-width:576x) {
+@media screen and (max-width:576px) {
 	.container{
 		width: 90%;
 	}
